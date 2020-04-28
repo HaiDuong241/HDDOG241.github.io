@@ -13,9 +13,9 @@ a[10]=' ';
 a[11]='V';
 a[12]='ì';
 a[13]=' ';
-a[14]='M';
-a[15]='à';
-a[16]='y';
+a[14]='T';
+a[15]='a';
+a[16]='o';
 a[17]=' ';
 a[18]='T';
 a[19]='h';
@@ -23,10 +23,13 @@ a[20]='i';
 a[21]='c';
 a[22]='h';
 a[23]=' ';
-a[24]='T';
-a[25]='a';
-a[26]='o';
-a[27]='o';
+a[24]='M';
+a[25]='à';
+a[26]='y';
+a[27]='y';
+a[28]='♥';
+a[30]='♥';
+a[31]=' ';
 
 function one()
 {
@@ -75,11 +78,11 @@ one()
 					$("#divResult").fadeIn(2000,function()
 							{
 							$("#divResult2").fadeOut(0);
-							$("#divResult2").html("<p>♥ ỪA THÌ TAO BIẾT MÀY THÍCH TAO THẬT. NHƯNG THÔI TAO CŨNG ĐÀNH CHỊU THIỆT YÊU MẦY VẬY.♥ .<img src='http://vozforums.com/images/smilies/Off/angry.gif'/></p></br>");
+							$("#divResult2").html("<p>♥ ỪA THÌ TAO BIẾT MÀY THÍCH TAO THẬT. NHƯNG THÔI TAO CŨNG ĐÀNH CHIỀU THEO Ý MÀY LÀ YÊU MÀY VẬY.♥ .<img src='http://vozforums.com/images/smilies/Off/angry.gif'/></p></br>");
 							$("#divResult2").fadeIn(2000,function()
 									{
 									$("#divResult3").fadeOut(0);
-									$("#divResult3").html("<p>VẬY HÃY ĐỂ TRÁI TIM TAO THUỘC VỀ MẦY MỘT LẦN NHÉ! ♥ <img src='http://vozforums.com/images/smilies/Off/sure.gif'/></p></br>");
+									$("#divResult3").html("<p>VẬY HÃY ĐỂ TRÁI TIM TAO THUỘC VỀ MÀY MỘT LẦN NHÉ ♥ <img src='http://vozforums.com/images/smilies/Off/sure.gif'/></p></br>");
 									$("#divResult3").fadeIn(2000);
 									}
 								);
